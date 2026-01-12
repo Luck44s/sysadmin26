@@ -1,0 +1,1 @@
+mv *.fa.fai index

@@ -1,0 +1,7 @@
+Hier folgen die Lösungen:
+
+2. 01.fa besitzt nach eingabe von wordcount 603 Zeilen.
+3.
+4.
+5.
+
