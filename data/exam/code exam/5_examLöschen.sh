@@ -1,0 +1,2 @@
+rm trash.txt
+
